@@ -1,0 +1,19 @@
+﻿Definition:
+ 
+Create a UnitTest project in C# (when you are ready, zip it up and send it thru Meghann to me)
+ 
+You are given a list of 3 web sites that you need to validate are functioning.
+ 
+http://www.10-4.com
+<website of your choice>
+<website of your choice>
+ 
+Place one-or-more requests to each and validate they are functioning and responding. 
+(and tell about different ways we can validate a functioning website)
+ 
+Organize a solution so it’s easy to add sites and validation rules/methods
+ 
+Bonuses
+create method for me to have a test that runs for an hour, cycling thru one or more of the sites repeatedly
+Show me some different ways to get the data
+Show me different ways to validate the data
